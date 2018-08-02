@@ -1,6 +1,8 @@
 # STXTS
 Email client for Blind Person
 
+![2018-08-02](https://user-images.githubusercontent.com/23320704/43597685-78a52c44-96a0-11e8-8899-701cd436b79d.png)
+
 
 How to Access the Application:
 
