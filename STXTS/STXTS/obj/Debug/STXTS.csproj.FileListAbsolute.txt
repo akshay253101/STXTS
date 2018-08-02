@@ -1,0 +1,30 @@
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\bin\Debug\STXTS.exe.config
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\bin\Debug\STXTS.exe
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\bin\Debug\STXTS.pdb
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.csprojResolveAssemblyReference.cache
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.Form1.resources
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.Properties.Resources.resources
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.csproj.GenerateResource.Cache
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.exe
+c:\users\ak yadav\documents\visual studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.pdb
+C:\Users\AK YADAV\documents\visual studio 2015\Projects\STXTS\STXTS\bin\Debug\Numbers.txt
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\bin\Debug\Numbers.txt
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\bin\Debug\STXTS.exe.config
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\bin\Debug\STXTS.exe
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\bin\Debug\STXTS.pdb
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.csprojResolveAssemblyReference.cache
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.Form1.resources
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.Properties.Resources.resources
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.csproj.GenerateResource.Cache
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.exe
+C:\Users\aksha\Documents\Visual Studio 2015\Projects\STXTS\STXTS\obj\Debug\STXTS.pdb
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\bin\Debug\STXTS.exe.config
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\bin\Debug\STXTS.exe
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\bin\Debug\STXTS.pdb
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.csprojResolveAssemblyReference.cache
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.Form1.resources
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.Properties.Resources.resources
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.csproj.GenerateResource.Cache
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.csproj.CoreCompileInputs.cache
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.exe
+X:\W.U.C.O\Projects\C#\STXS\STXTS\STXTS\obj\Debug\STXTS.pdb
