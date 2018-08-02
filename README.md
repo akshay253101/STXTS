@@ -1,0 +1,31 @@
+# STXTS
+Email client for Blind Person
+
+
+How to Access the Application:
+
+Open STXTS.EXE
+
+Commands used:
+
+Start listening email – now user will input his email address
+
+Start listening password – now user will input his password
+
+Start listening subject – now user will input his subject
+
+Start listening receiver - now user will input receiver id 
+
+Start listening body – now user will input voice message
+	
+Stop listening email – now user will back to select menu
+
+Stop listening password – now user will back to select menu
+
+Stop listening subject – now user will back to select menu
+
+Stop listening receiver - now user will back to select menu
+
+Stop listening body – now user will back to select menu
+
+Send message- message will be sent 
